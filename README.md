@@ -1,25 +1,15 @@
-## Olá! Eu 
-
-- 🌱 Atualmente estudando Python
-
-<h2> 📊 Stats  <h2>
-<div>
-<a href="https://github.com/Thiagoross1/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Thiagoross1&theme=tokyonight" />
-</a>
-<a href="https://github.com/Thiagoross1/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiagoross1&layout=donut&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
-</div>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Thiago-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
-</div>
-
-<div>
-          
-<img align="right" alt="T-Haerin" height="60" width="60" src="https://i.pinimg.com/736x/7a/ec/52/7aec526629441d4da965472aa223bc18.jpg"> 
-</div>
+# 💫 About Me:
+🌱 Atualmente estudando Python
 
 
- 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Thiagoross1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Thiagoross1&theme=tokyonight&hide_border=false)<br/>
+<img height= 100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoross1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Thiagoross1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
