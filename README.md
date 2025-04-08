@@ -2,8 +2,10 @@
 
 <h1 align="center">Seja Bem Vindo ao meu Perfil! </h1>
 
-# 💫 Sobre Mim:
+<div align="center">
+ <h2>💫 Sobre Mim <h2>
 🌱 Atualmente estudando Python
+</div>
 
 # 💻 Linguagens:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
