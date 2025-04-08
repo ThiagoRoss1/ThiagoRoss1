@@ -22,6 +22,5 @@
 <img height= 100 align="right" src="https://i.pinimg.com/736x/7a/ec/52/7aec526629441d4da965472aa223bc18.jpg" />
   
 </div>
-![](https://github-contributor-stats.vercel.app/api?username=Thiagoross1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
