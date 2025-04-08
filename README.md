@@ -1,3 +1,6 @@
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6158F7&background=EDFF3500&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Thiago;Hello!+I'm+Thiago;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%A7%80%EC%95%84%EA%B5%AC%EC%98%88%EC%9A%94" alt="Typing SVG" /></a>
+
+
 # 💫 About Me:
 🌱 Atualmente estudando Python
 
