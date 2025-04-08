@@ -20,5 +20,5 @@
 <img align="right" alt="T-Haerin" height="60" width="60" src="https://i.pinimg.com/736x/7a/ec/52/7aec526629441d4da965472aa223bc18.jpg"> 
 </div>
 
-![Snake animation](https://github.com/Thiagoross1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Thiagoross1/Thiagoross1/blob/output/github-contribution-grid-snake.svg)
  
